@@ -1,6 +1,6 @@
 # ChurrasCalculator
 
-<strong><font size="20">Calculadora de churrasco feito com Xamarin Forms e C#, projeto iniciado visto que os aplicativos semelhantes no mercado nao atendem as demanadas necessárias de funcionalidades</font></strong>
+<strong><font size="20">Calculadora de churrasco feito com Xamarin Forms e C#, projeto iniciado visto que, os aplicativos semelhantes no mercado não atendem as demandas necessárias de funcionalidades</font></strong>
 
 <h2>Desenvolvedores</h2>
 
